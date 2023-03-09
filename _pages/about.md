@@ -18,5 +18,5 @@ I work in the intersection of Machine Learning and Signal Processing. Currently,
 
 Prior to joining industry, I completed my PhD and MS - both in Electrical Engineering from [Virginia Tech](https://ece.vt.edu/). You can find a complete list of my [papers](/publications/) and [patents](/patents/). 
 
-If you want to know more about my work or just want to say hi, reach out to me on [Linkedin](https://www.linkedin.com/in/tamoghnaroy/).
+If you want to know about my work or just want to say hi, reach out to me on [Linkedin](https://www.linkedin.com/in/tamoghnaroy/).
 
