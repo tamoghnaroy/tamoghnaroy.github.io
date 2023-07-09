@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Engineer, Machine Learning at <a href='https://www.deepsig.ai/'>DeepSig</a>
+subtitle: Director of Machine Learning at <a href='https://www.deepsig.ai/'>DeepSig</a>
 
 profile:
   align: right
